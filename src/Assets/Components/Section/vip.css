@@ -1,0 +1,64 @@
+.join-vip div h1{
+    border-bottom: 1px solid #fff;
+    color: red;
+    margin-bottom: 10px;
+}
+.join-vip ol li {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+.join-vip ol li span{
+    color: coral;
+    margin-left: 5px;
+    font-size: 1em;
+    border-bottom: 1px solid coral;
+}
+.join-vip {
+    height: auto;
+    padding: 8em 0 6em 2em;
+    gap: 3em;
+}
+.join-vip img {
+    height: 2em;
+}
+.join-vip > h1{
+
+    display: flex;
+    align-items: center;
+}
+.join-vip input {
+    border: none; 
+    outline: none;
+    padding: 2px 5px;
+    border-radius: 1em;
+    margin-right: 2em;
+    font-size: 1.5em;
+}
+.join-vip input:active{
+    outline: none;
+}
+.join-vip button {
+    border-radius: 1em;
+    cursor: pointer;
+    padding: 3px 9px;
+    border: none;
+    outline: none;
+}
+.form{
+    margin-top: 1.5em;
+    display: flex;
+    padding-top: 1.6em;
+}
+.validation {
+    color: red;
+    margin-top: 1em;
+    font-size: 1.5em;
+    display: none;
+}
+.validation-true{
+    color: green;
+    margin-top: 1em;
+    font-size: 1.5em;
+    display: none;
+}
+.join-vip img{cursor: pointer;}

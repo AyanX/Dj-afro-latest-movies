@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --clr-dark-blue:rgb(33,41,92);
+    --clr-dark-blue-header: #14213d;
+    --clr-blue:rgb(27,59,111);
+    --clr-light-blue:rgb(6,90,130);
+    --clr-ligher-blue:rgb(28,114,147);
+    --clr-gray:rgb(158,174,194);
+}
+
+
+img{
+    display: block;
+}
+html{
+    font-size: 62.5%;
+}
+a{
+    text-decoration: none;
+}
+button.activeStyles{
+    color: red !important;
+}

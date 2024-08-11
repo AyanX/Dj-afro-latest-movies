@@ -1,0 +1,16 @@
+.teen-gift{
+    width: 100%;
+    height: 20em;
+    background-color: var(--clr-blue);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.teen-container{
+    background-color: var(--clr-light-blue);
+}
+.teen-movies-list{
+    display: flex;
+    flex-wrap: wrap;
+}

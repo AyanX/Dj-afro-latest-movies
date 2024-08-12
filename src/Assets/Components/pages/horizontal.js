@@ -66,7 +66,7 @@ export default function Horizontal() {
 
   return (
     <div className="horizontal-container" id="horizontal-container">
-      <div className="horizontal-container-container"></div>
+      {/* <div className="horizontal-container-container"></div> */}
       <div className="section">{mapSectionMovies}</div>
     </div>
   );

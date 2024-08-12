@@ -84,12 +84,17 @@ a {
 }
 @media (max-width: 860px) {
   .cover {
-    width: 100vw;
+    width: 80vw;
     height: 100vh;
     position: absolute;
     top: 5em;
     left: 0;
+    z-index: 3;
   } 
+  .horizontal-container-container{
+    max-width: 100vw;
+    overflow: hidden;
+  }
   .nav-links {
     display: flex;
     flex-direction: column;

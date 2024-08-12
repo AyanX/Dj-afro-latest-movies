@@ -63,7 +63,8 @@ export default function Vip() {
             <li>
               <h3>
                 To join , send ksh 100 to MPESA number
-                <span>0110641770</span> to get your <span>ACTIVATION CODE</span>
+                <span>0110641770</span> to get your <br/>
+                <span>ACTIVATION CODE</span>
                 <a href="https://wa.me/+254110641770">
                   <img src={mpesa}/>
                 </a>
@@ -71,14 +72,15 @@ export default function Vip() {
             </li>
             <li>
               <h3>
-                Forward the Confirmation message to the same Whatsapp number
+                Forward the Confirmation message <br/>
+                 to the same Whatsapp number
                 <span>0110641770</span> <br /> or click the whatsapp icon below
                 <a href="https://wa.me/+254110641770"><img src={whatsapp} /></a>
               </h3>
             </li>
             <li>
               <h3>
-                You will receive a code on your Whatsapp, Input the code in the
+                You will receive a code on your Whatsapp, <br/> Input the code in the
                 input below and <br />
                 the VIP section will unlock
               </h3>
